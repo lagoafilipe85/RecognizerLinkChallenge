@@ -68,7 +68,7 @@ http://www.lojadamaria.com.br/categoria-legais
 http://www.lojadamaria.com.br/perfume-the-one-sport-masculino-edt
 ```
 
-#### Loja da Maria
+#### Loja do José
 
 ```xml
 <item>
