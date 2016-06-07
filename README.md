@@ -92,6 +92,9 @@ http://www.lojadoze.com.br/chapeu-caipira-de-palha-desfiado?google
 
 * Reconhecedor de links de produtos de acordo com o XML da loja e os links de requests informados.
 
+## Dúvidas?
+* Só criar uma issue.
+
 ## Ganha + pontos se conter
 
 * For completamente automático.
@@ -108,7 +111,7 @@ O processo de Pull Request funciona da seguinte maneira:
 2. Criará uma nova branch a partir da master.
 3. Fará seu projeto nesse novo branch.
 4. Commitará e subirá as alterações para o SEU branch.
-5. Pela interface do GitHub, irá enviar um Pull Request.
+5. Pela interface do GitHub, irá enviar um pull request.
 
 ## ATENÇÃO
 
