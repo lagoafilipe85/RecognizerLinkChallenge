@@ -107,11 +107,10 @@ O candidato deverá implementar a solução e enviar um pull request para este r
 
 O processo de Pull Request funciona da seguinte maneira:
 
-1. Candidato fará um clone deste repositório.
-2. Criará uma nova branch a partir da master.
-3. Fará seu projeto nesse novo branch.
-4. Commitará e subirá as alterações para o SEU branch.
-5. Pela interface do GitHub, irá enviar um pull request.
+1. Candidato fará um fork deste repositório (não irá clonar direto).
+2. Fará seu projeto nesse novo fork.
+3. Commitará e subirá as alterações para o SEU fork.
+4. E, pela interface do GitHub, irá enviar um pull request.
 
 ## ATENÇÃO
 
